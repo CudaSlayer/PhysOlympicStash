@@ -146,3 +146,17 @@ What makes this book exceptional:
 This Level 2.25 collection is not for the faint of heart. It demands mastery of all previous material and represents the final stepping stone before tackling actual International Physics Olympiad problems. The satisfaction of solving these problems is unparalleled - each one conquered is a badge of honor in your physics journey.
 
 💎 **Pro tip**: Work through this book with a study group. The discussions that emerge from these problems will elevate everyone's understanding to new heights.
+
+---
+
+## The Next Frontier: Hungarian Physics Mastery
+
+🔥 WHOA, physics titans! 
+
+You've been slaying KRS, Gurskii, Krotov, Belikov, and ZS for next 4 months with some Bukhovtsev spice sprinked in, grinding 8 hr/day - 12 epic months of pure physics brilliance in total! 
+
+🌟 Save the lion's share of your time for Krotov's mind-bending beast! 
+
+💪 But hold onto your calculators - IT'S TIME TO LEVEL UP with some Hungarian gems that'll blow your mind! 
+
+🚀 The Russians and Hungarians? Different gravy, my friends - math and physics royalty clashing in the best way possible!
