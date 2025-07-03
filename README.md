@@ -151,12 +151,55 @@ This Level 2.25 collection is not for the faint of heart. It demands mastery of 
 
 ## The Next Frontier: Hungarian Physics Mastery
 
-🔥 WHOA, physics titans! 
+🔥 WHOA, physics titans!
 
-You've been slaying KRS, Gurskii, Krotov, Belikov, and ZS for next 4 months with some Bukhovtsev spice sprinked in, grinding 8 hr/day - 12 epic months of pure physics brilliance in total! 
+You've been slaying KRS, Gurskii, Krotov, Belikov, and ZS for next 4 months with some Bukhovtsev spice sprinked in, grinding 8 hr/day - 12 epic months of pure physics brilliance in total!
 
-🌟 Save the lion's share of your time for Krotov's mind-bending beast! 
+🌟 Save the lion's share of your time for Krotov's mind-bending beast!
 
-💪 But hold onto your calculators - IT'S TIME TO LEVEL UP with some Hungarian gems that'll blow your mind! 
+💪 But hold onto your calculators - IT'S TIME TO LEVEL UP with some Hungarian gems that'll blow your mind!
 
 🚀 The Russians and Hungarians? Different gravy, my friends - math and physics royalty clashing in the best way possible!
+
+### Level 2.5: The Hungarian Olympiad Collection
+
+🔥🔥 Get ready to dominate the physics world with Hungarian gems!
+
+🌍 Dive into the epic quad by Péter Gnädig, Gyula Honyek, and Máté Vigh - these four books are your golden ticket to crushing the national-level Physics Olympiad! 🎉
+
+Books 1-2 are in English, while 3-4 are in Hungarian - but no sweat! 📸 Screenshot, copy, paste, and let Claude, GPT, or Yandex Translate work their magic!
+
+- [**200 Puzzling Physics Problems**](https://archive.org/details/200puzzlingphysicsproblems) by Péter Gnädig, Gyula Honyek, and Máté Vigh
+
+  ![200 Puzzling Physics Problems](images/puzzling1_guyla.jpg)
+
+- [**200 More Puzzling Physics Problems**](https://archive.org/details/200-more-puzzling-physics-problems-with-hints-and-solutions-gnv-64) by Péter Gnädig, Gyula Honyek, and Máté Vigh
+
+  ![200 More Puzzling Physics Problems](images/puzzling2_guyla.jpg)
+
+- [**333 Furfangos Feladat Fizikából**](https://www.typotex.hu/book/6552/gnadig_honyek_vigh_333__furfangos_feladat_fizikabol) by Péter Gnädig, Gyula Honyek, and Máté Vigh
+
+  ![333 Furfangos Feladat Fizikából](images/333furfangos.jpg)
+
+- [**333+ Furfangos Feladat Fizikából**](https://www.typotex.hu/book/8924/gnadig_honyek_vigh_333___furfangos_feladat_fizikabol) by Péter Gnädig, Gyula Honyek, and Máté Vigh
+
+  ![333+1 Furfangos Feladat Fizikából](images/333_furfangos.jpg)
+
+
+P.S. Gyula Honyek, the IPhO wizard who trained Hungary's team (and also a team leader) for ~25 years, drops gem problems like a mad genius.
+
+These four Hungarian gems will demand 3 months of grueling 8-hour daily grind! ⏰
+
+⚠️ Don't rush this goldmine! ⚠️
+
+Take it slow, soak in the brilliance, and level up for Olympiad glory! 🚀
+
+All these four Hungarian gems by GHV are of Level 2.5.
+
+**DO NOT RUSH THROUGH THESE. YOU'LL THANK ME LATER.**
+
+![Warning GIF](images/warning.gif)
+
+
+
+#Physics #OlympiadPrep #HungarianPhysics #PhysicsJourney #SovietPhysics #RussianPhysics
