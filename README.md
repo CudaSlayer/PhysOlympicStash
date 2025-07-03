@@ -99,12 +99,50 @@ Nailed the foundations, but Olympiad level awaits! 🚀
 
 ### Level 2: The Olympiad Gateway
 
-🔥🔥 You've conquered the foundations - now it's time to unleash the beast! 
+🔥🔥 You've conquered the foundations - now it's time to unleash the beast!
 
-🌩️ Tackle the Level 2 masterpiece by Krotov, where every single damn problem is a goldmine of brilliance! 
+🌩️ Tackle the Level 2 masterpiece by Krotov, where every single damn problem is a goldmine of brilliance!
 
 - [**Aptitude Test Problems in Physics**](https://archive.org/details/ptitudetestproblemsinphysics) by S.S. Krotov
 
   ![Krotov Aptitude Test Problems in Physics](images/krotov.jpg)
 
 💪 Solve them ALL, but only if you've mastered the previous books first!
+
+### Level 2: Problem-Solving Methodology
+
+🌙 Revise EVERY mind-blowing problem-solving trick you've conquered from Belikov - let's polish that genius sparkle to a dazzling shine!
+
+- [**General Methods for Solving Physics Problems**](https://archive.org/details/BelikovGeneralMethodsForSolvingPhysicsProblems) by B.S. Belikov
+
+  ![Belikov General Methods for Solving Physics Problems](images/belikov.jpg)
+
+### Level 1.75-2: Recovery Mode
+
+✨ Then, dive into some hand-picked, brain-teasing gems from Zubov & Shalnov (a quirky Level 1.75-2 mashup) to recover from Krotov's epic mind-melting gauntlet! 💀
+
+- [**Problems in Physics**](https://archive.org/details/ZubovShalnovProblemsInPhysicsMir) by V.I. Zubov & V.P. Shalnov
+
+  ![Zubov & Shalnov Problems in Physics](images/zubovshalnov.jpg)
+
+This duo is your golden ticket to strut into the High School Physics Big-Boy table with swagger - don't trip over the velvet rope! 🚪
+
+### 🌟 BONUS: Level 2.25 - The Soviet Olympiad Crucible 🌟
+
+If you've made it this far, you're ready for something truly special. Enter Bukhovtsev's "Problems in Elementary Physics" - a deceptively titled masterpiece that contains some of the most elegant and challenging physics problems ever devised.
+
+This rare Soviet gem represents the pinnacle of pre-university physics problem-solving. Originally designed for the most talented students in specialized physics schools across the USSR, this collection has trained generations of International Physics Olympiad medalists.
+
+What makes this book exceptional:
+
+- **Methodical progression**: Problems are arranged in increasing difficulty within each topic
+- **Elegant solutions**: Each problem is a lesson in physical intuition and mathematical finesse
+- **Historical significance**: Many problems were used in Soviet physics competitions and early IPhO training
+
+[**Problems in Elementary Physics**](https://archive.org/details/BukhovtsevEtAlProblemsInElementaryPhysics) by B.B. Bukhovtsev, V.D. Krivchenkov, G.Y. Myakishev, and V.P. Shalnov
+
+  ![Bukhovtsev et al Problems in Elementary Physics](images/Bukhovtsev-et-al-Problems-in-Elementary-Physics.jpg)
+
+This Level 2.25 collection is not for the faint of heart. It demands mastery of all previous material and represents the final stepping stone before tackling actual International Physics Olympiad problems. The satisfaction of solving these problems is unparalleled - each one conquered is a badge of honor in your physics journey.
+
+💎 **Pro tip**: Work through this book with a study group. The discussions that emerge from these problems will elevate everyone's understanding to new heights.
